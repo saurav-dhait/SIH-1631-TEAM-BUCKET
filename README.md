@@ -1,6 +1,6 @@
 <h1 align="left">Hey! 👋 We are team Bucket 🪣</h1>
+<img src = images/bucket_logo.jpg>
 
-###
 
 <h2 align="left">Project Title: AI-Powered Chatbot for Rajasthan Technical Education 🤖📚</h2>
 
@@ -13,7 +13,7 @@
 <p align="left">The AI-Powered Chatbot 💬 is developed to assist stakeholders—students, parents, and other interested parties—by providing timely and accurate information related to admissions, eligibility criteria, scholarships 💸, fee structure 💰, hostel facilities 🛏️, and placement opportunities 💼 for engineering and polytechnic institutes in Rajasthan, operating under the Department of Technical Education 🏫</p>
 
 ###
-
+<img src= images/d1820b29-96b6-4f9a-8867-8598b6f47cc6.webp width = 400px>
 <h3 align="left">Background</h3>
 
 ###

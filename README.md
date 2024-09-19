@@ -1,5 +1,5 @@
 <h1 align="left">Hey! 👋 We are team Bucket 🪣</h1>
-<img src = images/bucket_logo.jpg>
+<img src = images/bucket_logo-removebg-preview.png>
 
 
 <h2 align="left">Project Title: AI-Powered Chatbot for Rajasthan Technical Education 🤖📚</h2>

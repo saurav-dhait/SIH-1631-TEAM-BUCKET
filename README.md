@@ -1,4 +1,6 @@
-<h1 align="left">Hey! 👋 We are team Bucket 🪣</h1>
+<h1 align="left">Team Bucket 🪣 </h1> <br>
+<h1 align="left">SMART INDIA HACKATHON</h1>
+
 <img src = images/bucket_logo-removebg-preview.png>
 
 
